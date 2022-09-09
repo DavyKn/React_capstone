@@ -1,10 +1,17 @@
-import React from 'react';
-
+import { Routes, Route } from 'react-router-dom';
+import Navbar from './components/nav/NavBar';
+import CoinDetails from './pages/CoinDetails';
+import Coins from './pages/Coins';
 
 function App() {
   return (
     <div className="App">
-     <h1>Hello</h1>
+      <Navbar />
+
+      <Routes>
+        <Route path="/" element={<Coins />} />
+        <Route path="/coindetail" element={<CoinDetails />} />
+      </Routes>
     </div>
   );
 }
