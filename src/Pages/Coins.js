@@ -17,7 +17,6 @@ const Coins = () => {
     if (!coins.length && lifecycle.loading === 'initial') {
       dispatch(fetchCoins());
     }
-  
   }, [dispatch, coins, lifecycle]);
 
   return (

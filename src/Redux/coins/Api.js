@@ -1,6 +1,6 @@
-import axios from 'axios'
+import axios from 'axios';
 
-export default axios.create ({
-  baseURL: "https://api.coinlore.net/api/tickers/",
+export default axios.create({
+  baseURL: 'https://api.coinlore.net/api/tickers/',
 
-})
+});

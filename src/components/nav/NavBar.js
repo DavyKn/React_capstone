@@ -1,4 +1,3 @@
-
 import { NavLink, useLocation } from 'react-router-dom';
 import Home from '../../assets/home.png';
 import back from '../../assets/back.png';
@@ -11,8 +10,8 @@ const Navbar = () => {
         <ul className="navigation-ul">
           <li className="NavLink">
             <NavLink to="/" className="logo">
-              {location.pathname === '/' ? <img src={Home} alt="Home logo" className="prism" />  : 
-              <img src={back} alt="back logo" className="prism" />}
+              {location.pathname === '/' ? <img src={Home} alt="Home logo" className="prism" />
+                : <img src={back} alt="back logo" className="prism" />}
             </NavLink>
           </li>
         </ul>
