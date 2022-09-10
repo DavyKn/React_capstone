@@ -3,7 +3,7 @@
 - Microverse - React/Redux solo project
 
 Its a website that retrives crypocurrencies data and it displays them .You can also view a single coin by clicking
-on the desired coin.
+on the desired coin.Take note i am only displaying 20 crypocurrencies data from my API.
 
 
 
