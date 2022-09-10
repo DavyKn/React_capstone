@@ -1,7 +1,9 @@
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/nav/NavBar';
+/* eslint-disable */
 import CoinDetails from './pages/CoinDetails';
 import Coins from './pages/Coins';
+/* eslint-enable */
 
 function App() {
   return (
