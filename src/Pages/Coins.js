@@ -2,10 +2,8 @@ import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import Coin from '../components/coin/Coin';
-/* eslint-disable */
-import { fetchCoins } from '../redux/coins/coinsReducer';
+import { fetchCoins } from '../Redux/coins/coinsReducer';
 import './Coins.css';
-/* eslint-enable */
 
 const Coins = () => {
   const dispatch = useDispatch();

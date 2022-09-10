@@ -1,61 +1,61 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React Capstone: 
-- Microverse - React/Redux solo project
+# Project Name: Crypto metrics webapp
 
-Its a website that retrives crypocurrencies data and it displays them .You can also view a single coin by clicking
-on the desired coin.Take note i am only displaying 20 crypocurrencies data from my API.
-
-
-# Loom video/a preview of how it works: 
-see the video in the link attached and apologies for background noise:(https://www.loom.com/share/36c0889eeaaa4179be2a0ea410bd675b)
+> Description of the project: A web application for that provides regularly updated data on cryptocurrency. The data is fetched from a reliable API and registers the daily and weekly changes in various metrics.
 
 
-## Tech ⌘⇧
-- **HTML & CSS best practices:** Correct use of tags, elements, properties and syntax.
-- **Gitflow:**  Correct use of Branches for deployment and features development.
-- **REACT:**  Used to set the basic structure.
-- **REDUX:** Centralizing application's state.
-- **API:** Fetching data.
-- **Webpack:**  Source development for production bundling.
-- **Linters Check:** Local and Pull Request Github workflows to check for stylistic errors, bugs and syntax errors in code.
+## Built With
 
-#
+- Major languages: HTML | CSS | JavaScript 
+- Library/Framework: Reactjs | Redux | Jest 
 
-## Setup
+## Live Demo
+- [Netlify](https://papaya-sunburst-a9d343.netlify.app/)
 
-- Use the following link for "$ git clone" the repo:
-https://github.com/DavyKn/react_capstone.git
-- cd Space-Traveler
-- "npm install" to install all the dependencies
-- "npm start" to run the live version locally
-- "code ." To open the project on your local editor
+## Video Link
+[Preview](https://loom.com/share/61b281634f3345aaab7bfd904d8eb49b)
 
-- Please click on the "acess link" so you can view the live demo
-- You can use it for functional math-related quotes and calculation
+## Getting started
+
+#### Clone this repository
+
+```bash
+$ git clone https://github.com/TracK92/crypto-metrics-webapp.git
+```
+
+#### cd into directory
+```
+$ cd <relative-path>/crypto-metrics-webapp/
+```
+
+#### install dependencies
+``` run 
+$ npm i
+```
+#### run project
+```
+$ npm start
+```
 
 ## Authors
 
-👤 **Davis Katana**
-- GitHub: [@DavyKn](https://github.com/DavyKn)
-- Twitter: [@davnyale](https://twitter.com/davnyale)
-- LinkedIn: (https://www.linkedin.com/in/davis-nyale/)
+👤 **Tracey Kadenyi**
 
+- GitHub: [@TracK92](https://github.com/TracK92)
+- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
+
+👤
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+## Acknowledgement
+
+Original design by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.

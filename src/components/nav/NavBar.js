@@ -18,7 +18,6 @@ const Navbar = () => {
       </div>
       <div className="logo-div">
         <p className="logo-p">Crypto Currencies</p>
-        {/* <img src={prism} alt="prism logo" className="prism" /> */}
       </div>
     </nav>
   );
