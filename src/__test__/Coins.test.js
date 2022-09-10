@@ -2,10 +2,8 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
-/* eslint-disable */
-import Coins from '../pages/Coins';
-import store from '../redux/store';
-/* eslint-enable */
+import Coins from '../Pages/Coins';
+import store from '../Redux/store';
 
 describe('Coins test', () => {
   test('snapshot for coins', () => {

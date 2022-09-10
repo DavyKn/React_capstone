@@ -3,9 +3,7 @@ import { render } from '@testing-library/react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import Navbar from '../components/nav/NavBar';
-/* eslint-disable */
-import store from '../redux/store';
-/* eslint-enable */
+import store from '../Redux/store';
 
 describe('Coins test', () => {
   test('snapshot for coins', () => {

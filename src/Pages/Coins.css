@@ -64,10 +64,6 @@
     width: calc(100% / 3);
   }
 
-  /* .individual-coin:nth-child(even) {
-    background-color: #396188;
-  } */
-
   .individual-coin:nth-child(2n) {
     background-color: #1d4e80;
   }

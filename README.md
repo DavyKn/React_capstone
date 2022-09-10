@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: Crypto metrics webapp
+# Project Name: react_capstone
 
 > Description of the project: A web application for that provides regularly updated data on cryptocurrency. The data is fetched from a reliable API and registers the daily and weekly changes in various metrics.
 
@@ -11,22 +11,22 @@
 - Library/Framework: Reactjs | Redux | Jest 
 
 ## Live Demo
-- [Netlify](https://papaya-sunburst-a9d343.netlify.app/)
+- [Netlify](https://dancing-strudel-ece355.netlify.app/)
 
 ## Video Link
-[Preview](https://loom.com/share/61b281634f3345aaab7bfd904d8eb49b)
+[Preview](https://loom.com/share/cb1d99ac613e447d9935ab412b84f64f)
 
 ## Getting started
 
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/TracK92/crypto-metrics-webapp.git
+$ git clone https://github.com/DavyKn/react_capstone.git
 ```
 
 #### cd into directory
 ```
-$ cd <relative-path>/crypto-metrics-webapp/
+$ cd <relative-path>/react_capstone/
 ```
 
 #### install dependencies
@@ -40,10 +40,11 @@ $ npm start
 
 ## Authors
 
-👤 **Tracey Kadenyi**
+👤 **Davis Nyale**
 
-- GitHub: [@TracK92](https://github.com/TracK92)
-- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
+- GitHub: [@DavyKn](https://github.com/DavyKn)
+- Twitter: [@davykk04](https://twitter.com/davykk04)
+- LinkedIn: [davis-katana](https://www.linkedin.com/in/davis-katana/)
 
 👤
 ## 🤝 Contributing
