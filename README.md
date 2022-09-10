@@ -6,6 +6,9 @@ Its a website that retrives crypocurrencies data and it displays them .You can a
 on the desired coin.Take note i am only displaying 20 crypocurrencies data from my API.
 
 
+# Loom video/a preview of how it works: 
+see the video in the link attached and apologies for background noise:(https://www.loom.com/share/36c0889eeaaa4179be2a0ea410bd675b)
+
 
 ## Tech ⌘⇧
 - **HTML & CSS best practices:** Correct use of tags, elements, properties and syntax.
